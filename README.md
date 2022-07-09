@@ -1,5 +1,5 @@
 
-## Hi there 👋, my name is **Joy Adhikary**.
+## Hey , Hi 👋, my name is **Joy Adhikary**.
 
 
 Self-motivated, creative, responsible, hardworking talented competitive programmer and software engineer.
