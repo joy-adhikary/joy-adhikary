@@ -1,9 +1,9 @@
-![](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/292830900_3312403115712278_7462408272410371401_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=F7e9CgsYPYcAX87e19q&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9yyavoCwLFt9Kif8TKeyOvsoZX35YilC_vCn2QXHkrag&oe=62CF69EC)
+
 ## Hi there 👋, my name is **Joy Adhikary**.
 
 
 Self-motivated, creative, responsible, hardworking talented competitive programmer and software engineer.
-- 🔭 I am currently studying for 10 semesters in the **CSE** department of **BUBT**
+- 🔭 I am currently studying for 10'th semesters in the **CSE** department of **BUBT**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/joy-adhikary-7b44461b7//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https://www.linkedin.com/in/joy-adhikary-7b44461b7//" height="30" width="40" /></a>
