@@ -18,5 +18,5 @@ Skills: Bootstrap / C++/ GO / HTML / C / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joy-adhikary)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/joy-adhikary)  
+![GitHub metrics](https://metrics.lecoq.io/joy-adhikary)  
 
