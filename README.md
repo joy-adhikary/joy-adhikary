@@ -14,9 +14,9 @@ Skills: Bootstrap / C++/ GO / HTML / C / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/joy-adhikary)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/joy-adhikary&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joy-adhikary&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/joy-adhikary)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joy-adhikary)  
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/joy-adhikary)  
 
