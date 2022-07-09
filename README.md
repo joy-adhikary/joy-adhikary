@@ -3,7 +3,7 @@
 
 
 Self-motivated, creative, responsible, hardworking talented competitive programmer and software engineer.
-- 🔭 I’m currently enrolling on 10th semester in **BUBT** Dept of **CSE**
+- 🔭 I am currently studying for 10 semesters in the **CSE** department of **BUBT**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/joy-adhikary-7b44461b7//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https://www.linkedin.com/in/joy-adhikary-7b44461b7//" height="30" width="40" /></a>
