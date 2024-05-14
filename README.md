@@ -2,7 +2,7 @@
 ## Hey , Hi , my name is **Joy Adhikary** . Welcome to my profile .
 
 
-I am a Self-motivated, creative, responsible, hardworking talented competitive programmer and software engineer.
+I am a Self-motivated, creative, responsible, hardworking talented competitive programmer and software engineer at ADfinix Limited.
 - 🔭 Recently I Have completed my under graduation in **CSE** department from **BUBT**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
